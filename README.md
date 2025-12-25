@@ -2,7 +2,6 @@
 # ProjectOlova
 
 **[2589] Oğulcan V. M. Voronay - Оулджан В. М. Воронай**  
-*-Wubba Lubba Dub Dub!*
 
 ---
 
@@ -57,4 +56,6 @@ ve o çizgide kalır.
 Teşekkürler.  
 Takip eden, dinleyen, okuyan herkes için.
 
-— **ProjectOlova**
+---
+
+*-Wubba Lubba Dub Dub!*
