@@ -1,7 +1,6 @@
 
 # ProjectOlova
 
-****@projectolova****
 **[2589] Oğulcan V. M. Voronay - Оулджан В. М. Воронай**  
 *-Wubba Lubba Dub Dub!*
 
